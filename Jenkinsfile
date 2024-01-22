@@ -4,6 +4,7 @@ pipeline {
     stage('') {
       steps {
         sh 'echo hola'
+        sh 'echo adios'
       }
     }
 
